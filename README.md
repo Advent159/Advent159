@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Fullstack+Developer;Bot+Builder;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -78,4 +82,8 @@
 
 ---
 
-<p align="center"><i>"Build. Break. Learn. Repeat."</i></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+  <br>
+  <i>"Build. Break. Learn. Repeat."</i>
+</p>
