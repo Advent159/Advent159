@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Aleqi 👋</h1>
-<h3 align="center">Fullstack Developer • Bot Builder • Tech Enthusiast</h3>
+<h3 align="center">Fullstack Developer • Bot Builder • Tech Enthusiast • Saya akan lawan !</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Fullstack+Developer;Bot+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Fullstack+Developer;Bot+Builder;Always+Learning+New+Things;saya+akan+lawan+!;" />
 </p>
 
 <p align="center">
