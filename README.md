@@ -1,8 +1,9 @@
-<h1 align="center">Hey, I'm Aleqi 👋</h1>
-<h3 align="center">Fullstack Developer • Bot Builder • Tech Enthusiast • Saya akan lawan !</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Aleqi%20%F0%9F%91%8B&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Bot%20Builder%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Fullstack+Developer;Bot+Builder;Always+Learning+New+Things;saya+akan+lawan+!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Fullstack+Developer;Bot+Builder;Always+Learning+New+Things;Saya+akan+lawan+!;" />
 </p>
 
 <p align="center">
@@ -15,6 +16,7 @@
   </table>
 </p>
 
+</div>
 
 ---
 
@@ -89,12 +91,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-  <br>
-  <i>"Build. Break. Learn. Repeat."</i>
-</p>
-
 ## 👾 Pac-Man Contribution Graph
 
 <picture>
@@ -102,3 +98,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Advent159/Advent159/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Advent159/Advent159/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<p align="center">
+  <i>"Build. Break. Learn. Repeat."</i>
+</p>
+
+</div>
