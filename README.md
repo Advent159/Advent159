@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-stats.com/api/Advent159?theme=tokyonight&show_icons=true" height="165" />
-  <img src="https://gh-stats.com/api/top-langs/Advent159?layout=compact&theme=tokyonight" height="165" />
+  <img src="https://ghstats.dev/api/card?username=Advent159&theme=tokyonight&show_icons=true" height="165" />
+  <img src="https://ghstats.dev/api/langs?username=Advent159&theme=tokyonight&layout=compact" height="165" />
 </p>
 
 <p align="center">
