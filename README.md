@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Advent159&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Advent159&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://gh-stats.com/api/Advent159?theme=tokyonight&show_icons=true" height="165" />
+  <img src="https://gh-stats.com/api/top-langs/Advent159?layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
