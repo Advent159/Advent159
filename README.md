@@ -7,13 +7,9 @@
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3M4MTZndzBudW0wZ3d5cm85bTM1OWlvdDN1cGVlY214eXQ5dnRhMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FH0EiKkU2vjPHZ5op1/giphy.gif" width="220" /></td>
-      <td><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm5ycjdyYWc0enM3b24xem1ycHc4N2U5cnRwMXE5MTR0MWVjd2FsZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/IzhH9tvwV37y2KSKGB/giphy.gif" width="300" /></td>
-      <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3M4MTZndzBudW0wZ3d5cm85bTM1OWlvdDN1cGVlY214eXQ5dnRhMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QYNN18Joj6QCNwViiW/giphy.gif" width="250" /></td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
 </p>
 
 </div>
@@ -41,12 +37,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Advent159&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advent159&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Advent159&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advent159&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Advent159&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Advent159&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
